@@ -1,1 +1,3 @@
-# basit_doviz_cevirici
+# Basit Döviz Çevirici
+
+İyi Kullanımlar :)
