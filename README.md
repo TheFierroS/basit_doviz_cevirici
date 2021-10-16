@@ -3,25 +3,25 @@
 ↓ Çevirebileceğiniz Birimler ↓
 <br>
 
-USD - TL
+<b>USD - TL</b>
 <br>
-TL - USD
+<b>TL - USD</b>
 <br>
-EUR -TL 
+<b>EUR -TL</b> 
 <br>
-TL - EUR
+<b>TL - EUR</b>
 <br>
-GDP - TL
+<b>GDP - TL</b>
 <br>
-TL - GDP
+<b>TL - GDP</b>
 <br>
-CHF - TL
+<b>CHF - TL</b>
 <br>
-TL - CHF
+<b>TL - CHF</b>
 <br>
-CAD - TL 
+<b>CAD - TL</b> 
 <br>
-TL - CAD
+<b>TL - CAD</b>
 <br>
 
 GDP -> İngiliz Sterlini
