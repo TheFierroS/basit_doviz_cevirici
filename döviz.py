@@ -4,7 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 import time
 
-header = {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0"}
+header = {"User-Agent":} #Kendi User Agentinizi Giriniz !
 
 r = requests.get("https://www.doviz.com/", headers=header) 
 soup = BeautifulSoup(r.content, "lxml")
