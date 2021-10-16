@@ -2,6 +2,7 @@
 
 ↓ Çevirebileceğiniz Birimler ↓
 <br>
+
 USD - TL
 <br>
 TL - USD
@@ -22,6 +23,7 @@ CAD - TL
 <br>
 TL - CAD
 <br>
+
 GDP -> İngiliz Sterlini
 <br>
 CHF -> İsviçre Frangı
